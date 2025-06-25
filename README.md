@@ -11,6 +11,7 @@ Twine är ett gratisverktyg där du enkelt kan skapa, testa och utveckla dina na
 ## Kom igång
 När man programmerar i Twine så skriver man direkt i passagen innanför dessa tecknen:\
 `<<//kod här>>`  
+
 Variabler deklareras genom att alltid börja med ett dollar-tecken. T.ex. $money är en variabel. Om vi säger: `<<set $money = 10>>` och sedan skriver “You have `$money”` så kommer det stå “you have 10” när man spelar spelet.
 
 *Ett exempel på en kodsnutt skulle kunna vara:*
