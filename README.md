@@ -29,16 +29,16 @@ Detta skulle leda till att man får ett val att köpa ett vapen om variabeln $mo
 
 ## Länkar
 ### Överskådlig dokumentation av vad man kan göra i Twine
-[Twine Cookbook]((https://twinery.org/cookbook/index.html))
+[Twine Cookbook](https://twinery.org/cookbook/index.html)
 
 ## Formatera din Twineberättelse som du vill
-[Stylesheet]((https://www.w3schools.com/css/default.asp))
+[Stylesheet](https://www.w3schools.com/css/default.asp)
 
 ## Guide till hur man ska tänka när man skapar en berättelse uppbygd i passager
-[Story Patterns]((https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/))
+[Story Patterns](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
 
-
-[Spel gjorda i Twine]((https://itch.io/games/made-with-twine))
+## Itch.Io
+[Spel gjorda i Twine](https://itch.io/games/made-with-twine)
 
 > Inspo för repo: Robert Esbjörnsson\
 > Uppgift skapad av Tim Grödhem och Emma Wigur för **_Spel Evolution, Axevalla Folkhögskola_**
